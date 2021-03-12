@@ -1,0 +1,38 @@
+{
+  "FileVersion": 2,
+  "Id": "60c3f6d3-b034-4430-90cb-555e76b16a41",
+  "Items": [
+    {
+      "Id": "3049d291-f05e-4320-9f68-8c639d3a60dc",
+      "Command": "dog0.obj"
+    },
+    {
+      "Id": "efadd351-975f-4324-8968-b6d5d2b0b7ac",
+      "Command": "wolf0.obj"
+    },
+    {
+      "Id": "2fbbbcd2-9860-40bf-babf-0732d3e67e02",
+      "Command": "-s"
+    },
+    {
+      "Id": "b25cf764-fb52-4ed7-861e-a1ddc6f5214e",
+      "Command": "l"
+    },
+    {
+      "Id": "aaa26d56-ca3d-4493-9cb8-860246789336",
+      "Command": "-e"
+    },
+    {
+      "Id": "24d4f4af-2dd3-436b-bb1e-aef9146867ba",
+      "Command": "l"
+    },
+    {
+      "Id": "9cb18cee-ae96-4af4-b6c3-919e28150c34",
+      "Command": "-v"
+    },
+    {
+      "Id": "8c2b8407-80fe-4ac1-9d75-06e4b78871d2",
+      "Command": "rhm"
+    }
+  ]
+}
