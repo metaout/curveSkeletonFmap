@@ -4,6 +4,8 @@
 頂点間の対応付けを求めることで，テクスチャや変形の転写ができる．
 
 # 転写例（左から右のモデルへの転写）
+後処理としてReversible Harmonic Maps between Discrete Surfaces (Ezuz, D. 2018)を利用．
+
 * テクスチャ（テクスチャ座標を転写）
   * <img src="https://github.com/metaout/curveSkeletonFmap/blob/master/example/dog.png" width="400"><img src="https://github.com/metaout/curveSkeletonFmap/blob/master/example/cat_to.png" width="400">
 
